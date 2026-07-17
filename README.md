@@ -1,19 +1,21 @@
 # 🚀 LeadFlow CRM
 
-A modern Client Lead Management System (Mini CRM) built using the MERN stack. This application helps businesses organize, track, and manage client leads efficiently through a clean and intuitive dashboard.
+### Client Lead Management System
+
+LeadFlow CRM is a full-stack Client Lead Management System built using **React.js, Node.js, Express.js, and MongoDB**. It enables businesses to efficiently manage customer leads, track their progress, update lead statuses, maintain follow-up notes, and monitor lead statistics through a modern and responsive dashboard.
 
 ---
 
-## 📌 Features
+## ✨ Features
 
 - ✅ Add new client leads
 - ✅ View all leads
-- ✅ Search leads by name, email, or source
-- ✅ Filter leads by status
+- ✅ Search leads by Name, Email, or Source
+- ✅ Filter leads by Status
 - ✅ Update lead status (New, Contacted, Converted)
 - ✅ Add notes for follow-ups
 - ✅ Dashboard statistics
-- ✅ Responsive user interface
+- ✅ Responsive and user-friendly interface
 
 ---
 
@@ -39,9 +41,10 @@ A modern Client Lead Management System (Mini CRM) built using the MERN stack. Th
 FUTURE_FS_02
 │
 ├── client
-│   ├── src
 │   ├── public
-│   └── package.json
+│   ├── src
+│   ├── package.json
+│   └── vite.config.js
 │
 ├── server
 │   ├── config
@@ -51,6 +54,11 @@ FUTURE_FS_02
 │   ├── server.js
 │   └── package.json
 │
+├── screenshots
+│   ├── dashboard.png
+│   ├── add-lead.png
+│   └── lead-list.png
+│
 └── README.md
 ```
 
@@ -58,26 +66,26 @@ FUTURE_FS_02
 
 ## ⚙️ Installation
 
-### Clone the repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/lakshmisrikatteboina-dev/FUTURE_FS_02.git
 ```
 
-### Navigate to the project
+### Navigate to the Project
 
 ```bash
 cd FUTURE_FS_02
 ```
 
-### Install Frontend
+### Install Frontend Dependencies
 
 ```bash
 cd client
 npm install
 ```
 
-### Install Backend
+### Install Backend Dependencies
 
 ```bash
 cd ../server
@@ -86,7 +94,7 @@ npm install
 
 ### Configure Environment Variables
 
-Create a `.env` file inside the `server` folder.
+Create a `.env` file inside the **server** folder.
 
 Example:
 
@@ -96,13 +104,13 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 ```
 
-### Run Backend
+### Run the Backend
 
 ```bash
 npm start
 ```
 
-### Run Frontend
+### Run the Frontend
 
 ```bash
 cd ../client
@@ -113,9 +121,34 @@ npm run dev
 
 ## 📸 Screenshots
 
-### Dashboard
+### 🏠 Dashboard
 
-> Add a screenshot here after uploading it to GitHub.
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### ➕ Add New Lead
+
+![Add Lead](screenshots/add-lead.png)
+
+---
+
+### 📋 Lead List
+
+![Lead List](screenshots/lead-list.png)
+
+---
+
+## 🎯 Key Functionalities
+
+- Client Lead Management
+- Lead Status Tracking
+- Search & Filter Leads
+- CRUD Operations
+- Dashboard Analytics
+- Notes & Follow-ups
+- REST API Integration
+- MongoDB Database Integration
 
 ---
 
@@ -123,5 +156,9 @@ npm run dev
 
 **Lakshmi Sri**
 
-GitHub:
-https://github.com/lakshmisrikatteboina-dev
+- GitHub: https://github.com/lakshmisrikatteboina-dev
+- LinkedIn: https://www.linkedin.com/in/lakshmi-sri-katteboina-89ba363b2/
+
+---
+
+## ⭐ If you found this project useful, consider giving it a Star on GitHub!
