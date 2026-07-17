@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@gmail.com",
+    "source": "Website",
+    "status": "New",
+    "notes": "Interested in premium package."
+  },
+  {
+    "name": "Priya Reddy",
+    "email": "priya.reddy@gmail.com",
+    "source": "LinkedIn",
+    "status": "Contacted",
+    "notes": "Requested demo."
+  },
+  {
+    "name": "Arjun Patel",
+    "email": "arjun.patel@gmail.com",
+    "source": "Referral",
+    "status": "Converted",
+    "notes": "Signed annual contract."
+  },
+  {
+    "name": "Sneha Nair",
+    "email": "sneha.nair@gmail.com",
+    "source": "Instagram",
+    "status": "New",
+    "notes": "Waiting for callback."
+  },
+  {
+    "name": "Kiran Kumar",
+    "email": "kiran.kumar@gmail.com",
+    "source": "Website",
+    "status": "Contacted",
+    "notes": "Needs pricing details."
+  },
+  {
+    "name": "Ananya Gupta",
+    "email": "ananya.gupta@gmail.com",
+    "source": "Facebook",
+    "status": "Converted",
+    "notes": "Purchased Business Plan."
+  },
+  {
+    "name": "Vikram Singh",
+    "email": "vikram.singh@gmail.com",
+    "source": "Website",
+    "status": "New",
+    "notes": "Looking for CRM solution."
+  },
+  {
+    "name": "Meera Joshi",
+    "email": "meera.joshi@gmail.com",
+    "source": "Referral",
+    "status": "Contacted",
+    "notes": "Meeting scheduled."
+  },
+  {
+    "name": "Rohan Das",
+    "email": "rohan.das@gmail.com",
+    "source": "LinkedIn",
+    "status": "Converted",
+    "notes": "Enterprise client."
+  },
+  {
+    "name": "Pooja Verma",
+    "email": "pooja.verma@gmail.com",
+    "source": "Website",
+    "status": "New",
+    "notes": "Requested quotation."
+  }
+]
