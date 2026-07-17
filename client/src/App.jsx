@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import Navbar from "./components/Navbar";
-import LeadForm from "./components/LeadForm";
-import LeadList from "./components/LeadList";
+import Navbar from "./components/navbar";
+import LeadForm from "./components/leadForm";
+import LeadList from "./components/leadList";
 import API from "./services/api";
 
 function App() {
